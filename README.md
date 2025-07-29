@@ -16,7 +16,7 @@ I’m constantly expanding my skills across both systems-level development using
 
 - 🔧 Deepening my knowledge in **data pipelines** and **data integration**
 - 📊 Building dashboards and analytics using **Power BI**
-- 👨‍🔧 Practicing **embedded systems** and **system-level programming** using **C/C++**
+- 👨‍🔧 Practicing **problem solving ** using **C/C++**
 - 📚 Learning more about **cloud & big data** tools (Airflow, Kafka, Docker)
 
 ---
