@@ -64,7 +64,7 @@ I’m constantly expanding my skills across both systems-level development using
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/kerolos-hani-2519441b6/)
 - 📧 Email: keroloshani474@gmail.com
-- 💻 GitHub: [kerolos-hani](https://github.com/kerolos-hani)
+- 💻 GitHub: [kerolos-hani](https://github.com/keroloshany47)
 
 ---
 
