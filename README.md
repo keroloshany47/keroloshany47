@@ -69,8 +69,8 @@ I’m constantly expanding my skills across both systems-level development using
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kerolos-hani&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keroloshany47&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kerolos-hani&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=keroloshany47&theme=tokyonight" />
 </p>
 
