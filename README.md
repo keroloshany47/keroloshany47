@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Kerolos Hani</h1>
-<h3 align="center">Aspiring Data Engineer | C/C++ Developer | Passionate about Data & Embedded Systems</h3>
+<h3 align="center">Aspiring Data Engineer & Analyst | Passionate about Data | C/C++ Developer </h3>
 
 ---
 
@@ -32,6 +32,7 @@ I’m constantly expanding my skills across both systems-level development using
 ### Data & Analysis
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?logo=matplotlib&logoColor=white)
 
 ### Tools & DevOps
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
