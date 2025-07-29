@@ -72,11 +72,14 @@ I'm a Computer Engineering student with a strong foundation in **programming** a
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=keroloshany47&show_icons=true&theme=tokyonight" />
   <br/>
-  <!-- GitHub Streak (بديل موثوق) -->
-  <img src="https://github-readme-streak-stats.demolab.com?user=keroloshany47&theme=tokyonight" />
-  <br/>
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keroloshany47&layout=compact&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <!-- Shield badge as a streak workaround -->
+  <img src="https://img.shields.io/badge/GitHub_Streak-Active-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 
 
