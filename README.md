@@ -6,9 +6,9 @@
 
 ## 👋 About Me
 
-I'm a Computer Engineering student with a strong foundation in **low-level programming** and a growing interest in **data engineering** and **AI-powered systems**.
+I'm a Computer Engineering student with a strong foundation in ** programming** and a growing interest in **data engineering** , **AI-powered systems**
 
-I’m constantly expanding my skills across both systems-level development using **C/C++**, and data analysis tools like **SQL**, **Python**, and **Power BI**.
+, and **data analysis** tools like **SQL**, **Python**, and **Power BI**.
 
 ---
 
