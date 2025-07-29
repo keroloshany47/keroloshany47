@@ -46,8 +46,8 @@ I'm a Computer Engineering student with a strong foundation in **programming** a
 
 - 📦 Data Engineering & Pipelines
 - 🧠 AI-integrated Platforms
-- ⚙️ Embedded Systems & Automotive Software
-- 💡 Using C/C++ for systems-level problem solving
+- ⚙️ Making analysis and dashboard 
+- 💡 Using C/C++ for  problem solving
 
 ---
 
