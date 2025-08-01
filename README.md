@@ -6,8 +6,9 @@
 
 ## About Me
 
-I'm a Computer Engineering student with a strong foundation in **programming** and a growing interest in **data engineering** and **data analysis** tools like **SQL**, **Python**, and **Power BI**.
-
+I have a strong foundation in programming with a growing focus on **data engineering and analysis**.  
+I specialize in designing and building **scalable data pipelines**, transforming raw data into valuable insights, and delivering **clean, actionable dashboards** using tools like **SQL**, **Python**, and **Power BI**.  
+I'm passionate about turning complex data into smart solutions that drive better decisions.
 
 
 ---
