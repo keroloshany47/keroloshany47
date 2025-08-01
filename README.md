@@ -4,7 +4,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a Computer Engineering student with a strong foundation in **programming** and a growing interest in **data engineering** and **data analysis** tools like **SQL**, **Python**, and **Power BI**.
 
@@ -12,16 +12,16 @@ I'm a Computer Engineering student with a strong foundation in **programming** a
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
-- 🔧 Deepening my knowledge in **data pipelines** and **data integration**
-- 📊 Building dashboards and analytics using **Power BI**
-- 👨‍🔧 Practicing **problem solving** using **C/C++**
-- 📚 Learning more about **cloud & big data** tools (Airflow, Kafka, Docker)
+-  Deepening my knowledge in **data pipelines** and **data integration**
+-  Building dashboards and analytics using **Power BI**
+-  Practicing **problem solving** using **C/C++**
+-  Learning more about **cloud & big data** tools (Airflow, Kafka, Docker)
 
 ---
 
-## 🧠 Tech Stack & Tools
+##  Tech Stack & Tools
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
@@ -42,29 +42,29 @@ I'm a Computer Engineering student with a strong foundation in **programming** a
 
 ---
 
-## 🧭 Areas of Interest
+## Areas of Interest
 
-- 📦 Data Engineering & Pipelines
-- 🧠 AI-integrated Platforms
-- ⚙️ Making analysis and dashboard 
-- 💡 Using C/C++ for  problem solving
-
----
-
-## 🏆 Achievements & Activities
-
-- 👨‍💼 Team Leader – Electric Vehicle Racing Team at Kafr El-Sheikh University  
-- 🔋 Contributed to designing and analyzing EV systems for national competitions  
-- 💻 Completed data analysis training using **Power BI**, **Python**, and **SQL**  
-- 🧠 Working on graduation project that integrates AI into agile project management
+- Data Engineering & Pipelines
+- AI-integrated Platforms
+- Making analysis and dashboard 
+- Using C/C++ for  problem solving
 
 ---
 
-## 📫 Connect with Me
+##  Achievements & Activities
 
-- 🌐 LinkedIn:[LinkedIn](https://www.linkedin.com/in/kerolos-hani-2519441b6/)
-- 📧 Email: keroloshani474@gmail.com
-- 💻 GitHub: [kerolosاhany47](https://github.com/keroloshany47)
+-  Team Leader – Electric Vehicle Racing Team at Kafr El-Sheikh University  
+-  Contributed to designing and analyzing EV systems for national competitions  
+-  Completed data analysis training using **Power BI**, **Python**, and **SQL**  
+-  Working on graduation project that integrates AI into agile project management
+
+---
+
+##  Connect with Me
+
+-  LinkedIn:[LinkedIn](https://www.linkedin.com/in/kerolos-hani-2519441b6/)
+-  Email: keroloshani474@gmail.com
+-  GitHub: [kerolosاhany47](https://github.com/keroloshany47)
 
 ---
 
