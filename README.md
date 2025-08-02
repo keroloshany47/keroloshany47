@@ -70,7 +70,6 @@ I'm passionate about turning complex data into smart solutions that drive better
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=keroloshani47&style=flat-square&color=blue)
 
 
 <!--
