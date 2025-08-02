@@ -1,5 +1,5 @@
-## Hi there 👋
-<h1 align="center">Kerolos Hani</h1>
+
+<h1 align="center">Hi, I'm Kerolos Hani</h1>
 <h3 align="center">Aspiring Data Engineer & Analyst | Passionate about Data | C/C++ Developer </h3>
 
 ---
@@ -61,13 +61,17 @@ I'm passionate about turning complex data into smart solutions that drive better
 
 ---
 
-##  Connect with Me
+## Connect with me
 
--  LinkedIn:[LinkedIn](https://www.linkedin.com/in/kerolos-hani-2519441b6/)
--  Email: keroloshani474@gmail.com
--  GitHub: [kerolosاhany47](https://github.com/keroloshany47)
+[![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keroloshani474@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keroloshany47)
+[![WhatsApp](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201205887142)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerolos-hani-2519441b6/)
 
----
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=keroloshani47&style=flat-square&color=blue)
+
 
 <!--
 <p align="center">
