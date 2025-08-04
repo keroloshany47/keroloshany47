@@ -50,14 +50,7 @@ I'm passionate about turning complex data into smart solutions that drive better
 
 ---
 
-## Areas of Interest
 
-- Data Engineering & Pipelines
-- AI-integrated Platforms
-- Making analysis and dashboard 
-- Using C/C++ for  problem solving
-
----
 
 ##  Achievements & Activities
 
