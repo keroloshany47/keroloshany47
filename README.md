@@ -50,17 +50,6 @@ I'm passionate about turning complex data into smart solutions that drive better
 
 ---
 
-
-
-##  Achievements & Activities
-
--  Team Leader – Electric Vehicle Racing Team at Kafr El-Sheikh University  
--  Contributed to designing and analyzing EV systems for national competitions  
--  Completed data analysis training using **Power BI**, **Python**, and **SQL**  
--  Working on graduation project that integrates AI into agile project management
-
----
-
 ## Connect with me
 
 [![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keroloshani474@gmail.com)
