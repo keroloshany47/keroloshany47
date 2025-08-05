@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.gif" width="50"/>
+</p>
 
-<h1 align="center">Hi, I'm Kerolos Hani👋 </h1>
+<h3 align="center">Hi, I'm Kerolos 👋</h3>
+
 <h3 align="center">Aspiring Data Engineer & Analyst | Passionate about Data | C/C++ Developer </h3>
 
 ---
