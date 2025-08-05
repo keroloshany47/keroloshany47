@@ -1,6 +1,7 @@
+<h1 align="center">
+  Hi there,I'm Kerolos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
+</h1>
 
-
-<h3 align="center">Hi, I'm Kerolos 👋</h3>
 
 <h3 align="center">Aspiring Data Engineer & Analyst | Passionate about Data | C/C++ Developer </h3>
 
