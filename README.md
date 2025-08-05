@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Kerolos Hani</h1>
+<h1 align="center">Hi, I'm Kerolos Hani👋 </h1>
 <h3 align="center">Aspiring Data Engineer & Analyst | Passionate about Data | C/C++ Developer </h3>
 
 ---
