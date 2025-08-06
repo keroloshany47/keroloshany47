@@ -3,7 +3,7 @@
 </h1>
 
 
-<h3 align="center">Aspiring Data Engineer & Analyst | Passionate about Data | C/C++ Developer </h3>
+<h3 align="center">Aspiring Data Engineer & Analyst | Passionate about Data </h3>
 
 ---
 
