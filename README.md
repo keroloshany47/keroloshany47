@@ -1,8 +1,3 @@
-<h3 align="center">🚀 My Data Projects</h3>
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1187278/screenshots/16755906/media/f6b812a5fdd4316f5de93f5f95ab03b4.gif" width="350"/>
-</p>
 
 ---
 
