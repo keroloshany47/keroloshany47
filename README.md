@@ -4,7 +4,7 @@
 ## 📊 Data Engineering & Databases
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="250"/>
+ 
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250"/>
 </p>
 
