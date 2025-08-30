@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTVjcWpqMDNwNnZveW43cHJ0OWRvcGRzOWo0ZXFqc2RmMDdndWJ3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif" width="100%" height="300"/>
 </p>
----
 
 ## About Me
 
