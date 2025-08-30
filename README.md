@@ -1,13 +1,16 @@
-# 👋 Welcome to My GitHub Profile  
+<h3 align="center">🚀 My Data Projects</h3>
 
 <p align="center">
-  <!-- فكرة 1: Animated Database -->
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Database Animation" width="70%"/>
+  <img src="https://cdn.dribbble.com/users/1187278/screenshots/16755906/media/f6b812a5fdd4316f5de93f5f95ab03b4.gif" width="350"/>
 </p>
 
+---
+
+## 📊 Data Engineering & Databases
+
 <p align="center">
-  <!-- فكرة 2: Data Streaming Animation -->
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Data Flow Animation" width="60%"/>
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250"/>
 </p>
 
 ---
