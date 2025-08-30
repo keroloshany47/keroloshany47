@@ -57,7 +57,7 @@ I'm passionate about turning complex data into smart solutions that drive better
 
 ## 📬 Connect with Me  
 
-<p align="center">
+<p >
   <a href="mailto:keroloshani474@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-rounded&logo=gmail&logoColor=white"/>
   </a>
