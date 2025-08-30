@@ -1,10 +1,10 @@
 
 ---
 
-## 📊 Data Engineering & Databases
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" style="width:100%; height:250px; object-fit:cover;"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" height="200"/>
 </p>
+
 
 
 
