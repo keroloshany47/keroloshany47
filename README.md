@@ -1,7 +1,10 @@
 <h1 align="center">
-  Hi there,I'm Kerolos hani<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
+  Hi there, I'm Kerolos hani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
 </h1>
 
+<p align="center">
+  <img src="https://i.postimg.cc/bZ4R6mW7/1697160172290.jpg" alt="Welcome Banner" width="600px"/>
+</p>
 
 <h3 align="center">Aspiring Data Engineer & Analyst | Passionate about Data </h3>
 
@@ -12,7 +15,6 @@
 I have a strong foundation in programming with a growing focus on **data engineering and analysis**.  
 I specialize in designing and building **scalable data pipelines**, transforming raw data into valuable insights, and delivering **clean, actionable dashboards** using tools like **SQL**, **Python**, and **Power BI**.  
 I'm passionate about turning complex data into smart solutions that drive better decisions.
-
 
 ---
 
@@ -25,7 +27,7 @@ I'm passionate about turning complex data into smart solutions that drive better
 
 ---
 
-##  Tech Stack & Tools
+## ⚙️ Tech Stack & Tools
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
@@ -38,7 +40,7 @@ I'm passionate about turning complex data into smart solutions that drive better
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?logo=matplotlib&logoColor=white)
 
-###  Data Engineering Tools
+### Data Engineering Tools
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-66CCFF?logo=apache&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
@@ -53,16 +55,28 @@ I'm passionate about turning complex data into smart solutions that drive better
 
 ---
 
-## Connect with me
+## 📬 Let's Connect!
 
-[![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keroloshani474@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keroloshany47)
-[![WhatsApp](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201205887142)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keroloshani-data/)
+<p align="center">
+  <a href="mailto:keroloshani474@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
+  <a href="https://github.com/keroloshany47">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
+  <a href="https://wa.me/201205887142">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/>
+  </a>
+  <a href="https://www.linkedin.com/in/keroloshani-data/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+</p>
+
+<p align="center">
+  💡 Always excited to discuss data, tech, and new opportunities — feel free to reach out!
+</p>
 
 <br>
-
-
 
 <!--
 <p align="center">
@@ -73,8 +87,3 @@ I'm passionate about turning complex data into smart solutions that drive better
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keroloshany47&layout=compact&theme=tokyonight" />
 </p>
 -->
-
-
-
-
-
