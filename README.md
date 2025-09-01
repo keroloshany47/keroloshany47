@@ -30,7 +30,7 @@ I'm passionate about turning complex data into smart solutions that drive better
 ##  Tech Stack & Tools  
 
 ### Languages  
-<p align="center">
+<p align>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
