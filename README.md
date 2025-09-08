@@ -75,10 +75,9 @@ I'm passionate about turning complex data into smart solutions that drive better
 
 ---
 
-<!--
 <p align="center">
   <!-- GitHub Stats -->
- <!-- <img src="https://github-readme-stats.vercel.app/api?username=keroloshany47&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E6FE&icon_color=00E6FE" height="180"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=keroloshany47&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E6FE&icon_color=00E6FE" height="180"/>
  
 
 
