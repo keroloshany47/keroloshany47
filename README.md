@@ -22,7 +22,7 @@ I'm passionate about turning complex data into smart solutions that drive better
 
 - Deepening my knowledge in **data pipelines** and **data integration**  
 - Building dashboards and analytics using **Power BI**  
-- Practicing **problem solving** using **C/C++**  
+- Practicing **problem solving** using **Python/C++**  
 - Learning more about **cloud & big data** tools (Airflow, Kafka, Docker)  
 
 ---
