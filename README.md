@@ -8,7 +8,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTVjcWpqMDNwNnZveW43cHJ0OWRvcGRzOWo0ZXFqc2RmMDdndWJ3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif" width="100%" height="300"/>
 </p>
 
----
+
 
 I am a Data Engineer with a strong focus on Big Data systems and scalable data pipelines, alongside a solid background in data analysis.
 
@@ -33,14 +33,12 @@ While I have experience in data analysis, my primary interest lies in designing 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-025E8C?logo=postgresql&logoColor=white)
 
----
 
 ### Data Analysis & Visualization  
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?logo=matplotlib&logoColor=white)
 
----
 
 ### Data Engineering & Big Data Tools  
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
@@ -51,7 +49,6 @@ While I have experience in data analysis, my primary interest lies in designing 
 ![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-5B5BD6?logo=microsoft&logoColor=white)
 ![dbt](https://img.shields.io/badge/-dbt-FF694B?logo=dbt&logoColor=white)
 
----
 
 ### Tools & DevOps  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
