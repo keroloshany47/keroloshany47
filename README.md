@@ -8,20 +8,15 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTVjcWpqMDNwNnZveW43cHJ0OWRvcGRzOWo0ZXFqc2RmMDdndWJ3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif" width="100%" height="300"/>
 </p>
 
+---
 
+##  About Me  
 
 I am a Data Engineer with a strong focus on Big Data systems and scalable data pipelines, alongside a solid background in data analysis.
 
 I specialize in building end-to-end data solutions including data ingestion, processing, and orchestration using tools such as Python, SQL, Apache Spark, Kafka, Airflow, and Databricks. I also work on transforming complex datasets into meaningful insights and dashboards using Power BI.
 
 While I have experience in data analysis, my primary interest lies in designing and optimizing large-scale data engineering systems that enable reliable and efficient data-driven decision-making.
-
----
-
-##  About Me  
-
-✔ I’m deeply focused on Big Data Engineering & scalable data pipelines  
-✔ I enjoy working with distributed systems and real-world data problems  
 
 ---
 
